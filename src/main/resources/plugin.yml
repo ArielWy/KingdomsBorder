@@ -1,0 +1,4 @@
+name: KingdomsBorder
+version: '${project.version}'
+main: me.olios.plugins.kingdomsborder.KingdomsBorder
+api-version: 1.21
